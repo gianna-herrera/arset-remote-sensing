@@ -1,3 +1,5 @@
+![Fundamentals of Remote Sensing — My Notes (ARSET/NASA)](./resources/banner.png)
+
 # Fundamentals of Remote Sensing — My Notes (ARSET/NASA)
 
 📚 **Official course:** [Fundamentals of Remote Sensing](https://www.earthdata.nasa.gov/learn/trainings/fundamentals-remote-sensing) — NASA Applied Remote Sensing Training Program (ARSET)
@@ -30,20 +32,22 @@ Fundamentals of Remote Sensing is often a **prerequisite** for other ARSET train
 
 ```
 arset-fundamentals-remote-sensing/
-├── README.md                          # this file
-├── notas/                             # my notes, module by module
-│   ├── 01-que-es-teledeteccion.md
-│   ├── 02-espectro-electromagnetico.md
-│   ├── 03-plataformas-y-sensores.md
-│   ├── 04-resolucion-espacial-espectral-temporal.md
-│   └── 05-aplicaciones.md
-├── investigacion-adicional/           # extra research beyond the course
-│   ├── satelites-mencionados.md       # my own fact sheets on satellites/sensors mentioned in the course
-│   └── glosario.md                    # technical terms explained in my own words
-├── proyecto/                          # practical exercise / hands-on work (e.g. NASA Worldview)
+├── README.md                              # this file
+├── notes/                                 # my notes, module by module
+│   ├── 01-what-is-remote-sensing.md
+│   ├── 02-electromagnetic-spectrum.md
+│   ├── 03-platforms-and-sensors.md
+│   ├── 04-spatial-spectral-temporal-resolution.md
+│   └── 05-applications.md
+├── additional-research/                   # extra research beyond the course
+│   ├── satellites-mentioned.md            # my own fact sheets on satellites/sensors mentioned in the course
+│   └── glossary.md                        # technical terms explained in my own words
+├── project/                               # practical exercise / hands-on work (e.g. NASA Worldview)
 │   ├── README.md
 │   └── ...
-├── recursos.md                        # external links I personally found useful
+├── resources/                             # extra material: banner image + useful external links
+│   ├── banner.png
+│   └── resources.md
 └── LICENSE
 ```
 
@@ -57,7 +61,7 @@ arset-fundamentals-remote-sensing/
 
 ## Resources that helped me
 
-See [`recursos.md`](./recursos.md) for the full list.
+See [`resources/resources.md`](./resources/resources.md) for the full list.
 
 ## Citation
 
